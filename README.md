@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-summer-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Endless Summer Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-nights/) |
+| **Get License** | [Get License For Endless Summer Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0008c1e32743581ad1d4b1d5c69a936daa986c5c5e3b38aa73376e19448c681a` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
