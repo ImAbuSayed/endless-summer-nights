@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-summer-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Endless Summer Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-nights/) |
+| **Get License** | [Secure Licensing Rights for Endless Summer Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tangled up in the fading light,
+> Your whiskey kiss on a summer night.
+> We have nowhere to be but right here,
+> Whispering secrets into the clear.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
